@@ -1,2 +1,2 @@
-# codespace-express-auth-22
-Simple authentication using express on codespace 
+# Codespace NodeJs Express Auth
+Simple authentication using nodejs express on codespace 
